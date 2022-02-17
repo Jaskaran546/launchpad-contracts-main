@@ -1,0 +1,11 @@
+.idea
+.DS_Store
+artifacts
+node_modules
+cache
+bin
+coverage
+coverage.json
+abi
+.env
+deployments
